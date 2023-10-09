@@ -1,0 +1,77 @@
+body {
+    background-color:#E5CFF7;
+    color: #713ABE;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    line-height: 2.2em;
+    font-size:14.3px;
+    }
+    .box-1 {
+        background-color:aquamarine;
+        color:purple;
+    border-width: 3px;
+    border-bottom-width: 10px;
+    border-top-style: dotted;
+    border: 5px red solid;
+    padding-top: 20 px;
+    padding-bottom: 20 px;
+padding-right: 20 px;
+padding-left: 20 px;
+    }
+    .box-1 h1{
+        font-family:Tahoma;
+        font-weight: 800;
+        font-style: italic;
+        text-decoration: underline;
+        text-transform: uppercase;
+        Letter-spacing: 0.2em;
+        word-spacing: 1em;
+    }
+    .container{
+        width:960px;
+        margin:auto;
+    }
+    .box-2{
+        margin-top: 10px;
+        margin-bottom: 2px;
+        margin-right: 40px;
+        margin-left: 100px;
+        border-radius:20px;
+        border-style: dotted;
+        border-color: red;
+        background-color: aquamarine;
+        border:3px dotted red;
+        padding:20px;
+    }
+    .categories  {
+        border: 1px #ccc solid;
+        padding: 10px;
+        border-radius:100px;
+    }
+        
+        .categories h2{
+            text-align:center;
+        }
+        
+        .categories ul{
+            padding:0;
+            list-style:square;
+            text-decoration: none;
+        }
+        a {
+            text-decoration: none;
+           color: #000;
+           }
+           a:hover {
+           color: red;
+           }
+           a:active{
+            color:green;
+           }
+           a:visited{
+            color:yellow;
+           }
+           body {
+            font-family: 'Montserrat', sans-serif;
+            font-family: 'Sacramento', cursive;
+            }
